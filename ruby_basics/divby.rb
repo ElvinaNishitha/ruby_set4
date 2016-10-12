@@ -1,7 +1,7 @@
 # Write a ruby program inorder to check whether the given number is divisible by 5.
 
 def divisibilityCheck
- puts "Enter a number to check for divisibility by 3"
+ puts "Enter a number to check for divisibility by 5"
  num = gets.to_i
  puts num
 #num = 5
